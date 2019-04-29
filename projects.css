@@ -1,0 +1,152 @@
+nav{
+    -webkit-text-fill-color: lightgrey;
+}
+
+#header{
+    text-align: center;
+    background-image: url('../images/blossom-branch-desktop-backgrounds-2101187.jpg');
+    background-size: 110%;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 102vh;
+}
+
+.btn{
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+    margin-top: 395px;
+    margin-left: -67px;
+}
+
+body{
+    margin: 0;
+    font-family: serif;
+    font-size: 17px;
+    line-height: 1.6;
+    background-color: antiquewhite;
+}
+
+.social-media{
+    font-size: 25px;
+    padding-left: 100ms;
+    left: 46%;
+    top: 105%;
+    position: absolute;
+    text-align: center;
+  }
+
+.box{
+    display: inline-block;
+    left: 30.25%;
+    width: 500px;
+    height: 225px;
+    padding: 50px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+}
+
+.container{
+    display: inline-block;
+    position: absolute;
+    left: 3%;
+    top: 55%;
+    width: 230px;
+    height: 210px;
+    padding: 5px;
+    box-shadow: 0 5px 15px rgba(199, 88, 88, 0.5);
+    background-image: url('../images/codepen-flower.png');
+    font-size: 17px;
+    -webkit-text-fill-color: black;
+}
+
+.container:hover{
+    background-size: 150%;
+    background-position-y: 10px;
+    box-shadow: 0 0px 40px rgba(0, 0, 0, .5);
+
+}
+
+.container1{
+    display: inline-block;
+    position: absolute;
+    left: 23%;
+    top: 55%;
+    width: 230px;
+    height: 210px;
+    padding: 5px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+    background-image: url('../images/Terminalicon2.png');
+    background-size: 150%;
+    background-repeat: no-repeat;
+    background-color: antiquewhite;
+    font-size: 17px;
+    -webkit-text-fill-color: black;
+}
+
+.container1:hover{
+    background-size: 75%;
+    background-position-y: 10px;
+    box-shadow: 0 0px 40px rgba(0, 0, 0, .5);
+}
+
+.container2{
+    display: inline-block;
+    position: absolute;
+    left: 43%;
+    top: 55%;
+    width: 230px;
+    height: 210px;
+    padding: 5px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+    background-image: url('../images/abstractmusicnapa\ -\ Copy.jpg');
+    background-size: 210%;
+    background-repeat: no-repeat;
+    background-color: antiquewhite;
+    font-size: 17px;
+    -webkit-text-fill-color: black;
+}
+
+.container2:hover{
+    background-size: 170%;
+    background-position-y: 10px;
+    background-position-x: -40px;
+    box-shadow: 0 0px 40px rgba(0, 0, 0, .5);
+}
+
+.container3{
+    display: inline-block;
+    position: absolute;
+    left: 63%;
+    top: 55%;
+    width: 230px;
+    height: 210px;
+    padding: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+    background-image: url('../images/codes-coding-data-2061168.jpg');
+    background-size: 300%;
+    -webkit-text-fill-color: yellow;
+}
+
+.container3:hover{
+    background-size: 150%;
+    box-shadow: 0 0px 40px rgba(0, 0, 0, .5);
+}
+
+.container4{
+    display: inline-block;
+    position: absolute;
+    left: 83%;
+    top: 55%;
+    width: 230px;
+    height: 210px;
+    padding: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+    background-image: url('../images/bird-s-eye-view-black-and-white-colors-450055.jpg');
+    background-size: 200%;
+    -webkit-text-fill-color: whitesmoke;
+}
+
+.container4:hover{
+    background-size: 125%;
+    box-shadow: 0 0px 40px rgba(0, 0, 0, .5);
+}
