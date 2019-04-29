@@ -1,0 +1,109 @@
+nav{
+    -webkit-text-fill-color: whitesmoke;
+}
+
+.navlink:hover{
+    text-shadow: 0 0px 40px rgba(0, 0, 0, .5);
+}
+
+#header{
+    text-align: center;
+    background-image: url('../Portfolio/images/blossom-branch-desktop-backgrounds-2101187.jpg');
+    background-size: 110%;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 102vh;
+}
+
+body{
+    margin: 0;
+    font-family: serif;
+    font-size: 17px;
+    line-height: 1.6;
+    background-color:antiquewhite;
+    z-index: -1;
+}
+
+.social-media{
+    font-size: 25px;
+    padding-left: 100ms;
+    left: 45%;
+    top: 105%;
+    position: absolute;
+    text-align: center;
+    text-decoration-color: black;
+  }
+
+  .box{
+    display: inline-block;
+    left: 30.25%;
+    position: center;
+    width: 550px;
+    height: 300px;
+    padding: 50px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+}
+
+.btn:hover{
+    box-shadow: 0 0px 37px rgba(0, 0, 0, .5);
+}
+
+.container3{
+    display: inline-block;
+    left: 20%;
+    top: 67%;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    background-image: url('../Portfolio/images/Code\ Resume\ 4_22_image.jpg');
+    background-size: 100%;
+    background-position-y: 25px;
+    -webkit-text-fill-color: darkblue;
+    font-size: 20px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+}
+
+.container3:hover{
+    box-shadow: 0 0px 37px rgba(0, 0, 0, .5);
+}
+
+.container1{
+    display: inline-block;
+    left: 43%;
+    top: 67%;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    background-image: url('../Portfolio/images/old-is-gold-image.jpg');
+    background-size: 170%;
+    -webkit-text-fill-color:maroon;
+    font-size: 20px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+}
+
+.container1:hover{
+    box-shadow: 0 0px 37px rgba(0, 0, 0, .5);
+
+}
+
+.container2{
+    display: inline-block;
+    left: 66%;
+    top: 67%;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    background-image: url('../Portfolio/images/Profile-Photo-2019.jpg');
+    background-size: 150%;
+    background-position-x: 55%;
+    -webkit-text-fill-color: white;
+    font-size: 17px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+}
+
+.container2:hover{
+    box-shadow: 0 0px 37px rgba(0, 0, 0, .5);
+}
