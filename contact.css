@@ -1,0 +1,62 @@
+nav{
+    -webkit-text-fill-color: lightgrey;
+}
+
+#header{
+    text-align: center;
+    background-image: url('../images/blossom-branch-desktop-backgrounds-2101187.jpg');
+    background-size: 110%;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 102vh;
+}
+
+.Social-Media{
+    display: inline-block;
+    left: 42.5%;
+    top: 70%;
+    position: absolute;
+    font-size: 55px;
+}
+
+.btn{
+    display: inline-block;
+    position: absolute;
+    left: 46%;
+    top: 90%;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: serif;
+    font-size: 17px;
+    line-height: 1.6;
+    background-color: antiquewhite;
+}
+
+.box{
+    display: inline-block;
+    left: 30.25%;
+    position: center;
+    width: 450px;
+    height: 200px;
+    padding: 50px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+}
+
+.container{
+    position: center;
+    left: 25.75%;
+    top: 50%;
+    width: 500px;
+    height: 300px;
+    padding: 15px;
+    background-color: antiquewhite;
+    font-size: 20px;
+    text-align: left;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+}
+
+
+
